@@ -1,6 +1,6 @@
 # ctse_quiz_app
 
-Quiz Flutter Application for CTSE Module SLIIT
+Quiz Flutter Application for Current Trends In Software Engineering Module SLIIT
 
 ## Getting Started
 
